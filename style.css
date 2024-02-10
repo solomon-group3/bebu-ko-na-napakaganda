@@ -24,6 +24,13 @@ h1{
     text-align: justify;
 }
 
+.p3{
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: white;
+    text-align: left;
+}
 .texts{
     background-color: rgba(211, 211, 211, 0.332);
     border-style: solid;
