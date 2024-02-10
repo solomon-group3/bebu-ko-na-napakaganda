@@ -1,0 +1,31 @@
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h1{
+    color: white;
+}
+
+.p1{
+    margin-top: 5%;
+    margin-left: 3%;
+    color: white;
+}
+
+.p2{
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    color: white;
+    text-indent: 5%;
+    text-align: justify;
+}
+
+.texts{
+    background-color: rgba(211, 211, 211, 0.332);
+    border-style: solid;
+    border-radius: 10px;
+}
